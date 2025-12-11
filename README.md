@@ -1,3 +1,5 @@
+A fork of the OpenVM Stark Backend with a Lean extraction mechanism built into the AirKeygenBuilder. This is designed such that building OpenVM with this backend and no other modification will cause the rv32im extension tests to output Lean code representing those circuits.
+
 # OpenVM Stark Backend
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/openvm-org/stark-backend)
